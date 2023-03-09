@@ -1,0 +1,18 @@
+{
+    "name": "ccdyy/byte-open",
+    "description": "byte open sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ccdyy\\ByteOpen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wang Chen",
+            "email": "cony_cc@163.com"
+        }
+    ],
+    "require": {}
+}
